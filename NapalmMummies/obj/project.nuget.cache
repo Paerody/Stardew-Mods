@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "f/Rnhiza8oGBUxMsk9mtLn/5E0Wude2+LMXo/j4RZLTZ1J5myNv6DabaFMwwS+WvAhyfqKCv0DJz8NaosgoPUQ==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\Stardew Valley\\Paerody\\Stardew-Mods\\NapalmMummies\\NapalmMummies.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex Dubreuil\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Alex Dubreuil\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.1.1\\pathoschild.stardew.modbuildconfig.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

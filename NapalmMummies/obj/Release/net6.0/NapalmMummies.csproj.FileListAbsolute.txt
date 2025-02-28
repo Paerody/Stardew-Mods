@@ -1,0 +1,20 @@
+C:\Users\Alex Dubreuil\Documents\Game Dev\NapalmMummies\obj\Release\net6.0\NapalmMummies.csproj.AssemblyReference.cache
+C:\Users\Alex Dubreuil\Documents\Game Dev\NapalmMummies\obj\Release\net6.0\NapalmMummies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Dubreuil\Documents\Game Dev\NapalmMummies\obj\Release\net6.0\NapalmMummies.AssemblyInfoInputs.cache
+C:\Users\Alex Dubreuil\Documents\Game Dev\NapalmMummies\obj\Release\net6.0\NapalmMummies.AssemblyInfo.cs
+C:\Users\Alex Dubreuil\Documents\Game Dev\NapalmMummies\obj\Release\net6.0\NapalmMummies.csproj.CoreCompileInputs.cache
+C:\Users\Alex Dubreuil\Documents\Game Dev\NapalmMummies\bin\Release\net6.0\manifest.json
+C:\Users\Alex Dubreuil\Documents\Game Dev\NapalmMummies\bin\Release\net6.0\NapalmMummies.deps.json
+C:\Users\Alex Dubreuil\Documents\Game Dev\NapalmMummies\bin\Release\net6.0\NapalmMummies.dll
+C:\Users\Alex Dubreuil\Documents\Game Dev\NapalmMummies\obj\Release\net6.0\NapalmMummies.dll
+D:\Dev\Stardew Valley\NapalmMummies\bin\Release\net6.0\manifest.json
+D:\Dev\Stardew Valley\NapalmMummies\bin\Release\net6.0\NapalmMummies.deps.json
+D:\Dev\Stardew Valley\NapalmMummies\bin\Release\net6.0\NapalmMummies.dll
+D:\Dev\Stardew Valley\NapalmMummies\obj\Release\net6.0\NapalmMummies.csproj.AssemblyReference.cache
+D:\Dev\Stardew Valley\NapalmMummies\obj\Release\net6.0\NapalmMummies.Properties.Resources.resources
+D:\Dev\Stardew Valley\NapalmMummies\obj\Release\net6.0\NapalmMummies.csproj.GenerateResource.cache
+D:\Dev\Stardew Valley\NapalmMummies\obj\Release\net6.0\NapalmMummies.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Stardew Valley\NapalmMummies\obj\Release\net6.0\NapalmMummies.AssemblyInfoInputs.cache
+D:\Dev\Stardew Valley\NapalmMummies\obj\Release\net6.0\NapalmMummies.AssemblyInfo.cs
+D:\Dev\Stardew Valley\NapalmMummies\obj\Release\net6.0\NapalmMummies.csproj.CoreCompileInputs.cache
+D:\Dev\Stardew Valley\NapalmMummies\obj\Release\net6.0\NapalmMummies.dll

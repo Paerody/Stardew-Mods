@@ -1,0 +1,5 @@
+C:\Users\Alex Dubreuil\Documents\Game Dev\NapalmMummies\obj\Release\net5.0\NapalmMummies.csproj.AssemblyReference.cache
+C:\Users\Alex Dubreuil\Documents\Game Dev\NapalmMummies\obj\Release\net5.0\NapalmMummies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Dubreuil\Documents\Game Dev\NapalmMummies\obj\Release\net5.0\NapalmMummies.AssemblyInfoInputs.cache
+C:\Users\Alex Dubreuil\Documents\Game Dev\NapalmMummies\obj\Release\net5.0\NapalmMummies.AssemblyInfo.cs
+C:\Users\Alex Dubreuil\Documents\Game Dev\NapalmMummies\obj\Release\net5.0\NapalmMummies.csproj.CoreCompileInputs.cache

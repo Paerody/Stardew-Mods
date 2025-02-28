@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Napalm Mummies 2",
+  "Author": "Paerody",
+  "Version": "0.1.4",
+  "Description": "Napalm Mummies.",
+  "UniqueID": "paerody.NapalmMummies",
+  "EntryDll": "NapalmMummies.dll",
+  "MinimumApiVersion": "4.0.0",
+  "Dependencies": [
+  ],
+  "UpdateKeys": [ "Nexus:21045" ]
+}

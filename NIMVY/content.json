@@ -1,0 +1,53 @@
+{
+    "Format": "2.5.0",
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Objects",
+            "Fields": {
+                95: {
+                    "DisplayName": "Astral Stone"
+                },
+                901: {
+                    "DisplayName": "Hulking Carp"
+                },
+                909: {
+                    "DisplayName": "Astral Ore",
+                    "Description": "It's glowing with astral energy... Can be smelted into bars."
+                },
+                910: {
+                    "DisplayName": "Astral Bar",
+                    "Description": "An absolutely stellar bar."
+                }
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Hats",
+            "Fields": {
+                84: {
+                    1: "None of the first 25 iterations did anything either.",
+                    5: "Z-Goggles"
+                }
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/starmetal-rock.png",
+            "ToArea": { "X": 368, "Y": 48, "Width": 16, "Height": 16 }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/starmetal-ore.png",
+            "ToArea": { "X": 336, "Y": 592, "Width": 16, "Height": 16 }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/starmetal-bar.png",
+            "ToArea": { "X": 352, "Y": 592, "Width": 16, "Height": 16 }
+        }
+    ]
+}

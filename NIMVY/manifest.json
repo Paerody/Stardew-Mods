@@ -1,0 +1,11 @@
+{
+    "Name": "NIMVY",
+    "Author": "Paerody",
+    "Version": "1.0.0",
+    "Description": "No radioactivity in my Valley.",
+    "UniqueID": "Paerody.NIMVY",
+    "UpdateKeys": ["Nexus:"],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
