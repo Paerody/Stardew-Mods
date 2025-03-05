@@ -4,7 +4,7 @@
     "Version": "1.0.0",
     "Description": "No radioactivity in my Valley.",
     "UniqueID": "Paerody.NIMVY",
-    "UpdateKeys": ["Nexus:"],
+    "UpdateKeys": ["Nexus:32135"],
     "ContentPackFor": {
         "UniqueID": "Pathoschild.ContentPatcher"
     }
