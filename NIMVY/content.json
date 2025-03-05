@@ -34,19 +34,19 @@
         {
             "Action": "EditImage",
             "Target": "Maps/springobjects",
-            "FromFile": "assets/starmetal-rock.png",
+            "FromFile": "assets/astral-rock.png",
             "ToArea": { "X": 368, "Y": 48, "Width": 16, "Height": 16 }
         },
         {
             "Action": "EditImage",
             "Target": "Maps/springobjects",
-            "FromFile": "assets/starmetal-ore.png",
+            "FromFile": "assets/astral-ore.png",
             "ToArea": { "X": 336, "Y": 592, "Width": 16, "Height": 16 }
         },
         {
             "Action": "EditImage",
             "Target": "Maps/springobjects",
-            "FromFile": "assets/starmetal-bar.png",
+            "FromFile": "assets/astral-bar.png",
             "ToArea": { "X": 352, "Y": 592, "Width": 16, "Height": 16 }
         }
     ]
